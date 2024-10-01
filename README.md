@@ -1,2 +1,3 @@
 # project_1_ohioma_eboreime
-## Test Project, uploading a notebook to GitHub
+## Test Project
+Uploading a notebook to GitHub
